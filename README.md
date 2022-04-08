@@ -1,6 +1,8 @@
 # Go Method
 
 ## Method
+A mechanism to define a function specialized for an arbitrary type.  
+The difference from a normal function is that a receiver is required before the method name.  
 
 ## Code
 ```Go
